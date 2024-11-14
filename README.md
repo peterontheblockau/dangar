@@ -19,4 +19,4 @@ Project structure for collaborative filmmaking and music production.
 This project uses Git LFS for managing large media files. Audio and video files are tracked using LFS.
 
 ## Ignored Files
-Logic Pro and Final Cut Pro project files are ignored to prevent conflicts.
+Logic Pro and Final Cut Pro temp / swap project files are ignored.
